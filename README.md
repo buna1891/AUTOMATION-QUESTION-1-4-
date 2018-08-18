@@ -1,2 +1,0 @@
-# AUTOMATION-SHIPT
-Specific Question of AUTOMATION given BY SHIPT
